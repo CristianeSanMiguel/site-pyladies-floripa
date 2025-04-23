@@ -1,14 +1,14 @@
 # PyLadies Floripa - Website Oficial
 
 ## Sobre o Projeto
-Este é o site oficial da PyLadies Floripa, um grupo focado em incentivar a participação de mulheres na programação e na comunidade Python. O site foi desenvolvido como parte do nosso Projeto Integrador no Senac.
+Este é o site oficial da PyLadies Floripa, um grupo focado em incentivar a participação de mulheres na programação e na comunidade Python.
 
 ## Objetivo
 Criar um Single Page Application (SPA) responsivo e moderno para a PyLadies Floripa, facilitando o acesso a informações sobre eventos, projetos, membros e formas de participação na comunidade.
 
 ## Tecnologias Utilizadas
 - **React.js** com Vite para desenvolvimento front-end
-- **Typescript** para estilização
+- **Bootstrap** para estilização
 - **Figma** para prototipação da interface do usuário
 - **GitHub** para controle de versão e colaboração
 
@@ -45,17 +45,7 @@ Abaixo uma imagem de como ficou o protótipo:
 4. Para contribuir, crie um branch e faça um pull request!
 
 ## Status do Projeto
-O site está em desenvolvimento e até o momento, o mockup da interface está pronto no Figma. Estamos atualmente na fase de implementação do código com React.js.
+Atualmente na fase de implementação do código com React.js.
 
-## Equipe
-Este projeto está sendo desenvolvido por um grupo de seis integrantes do curso de Tecnologia em Sistemas para Internet do Senac, incluindo membros da comunidade PyLadies.
-- Cristiane Silva San Miguel
-- Lydson Henrique San Miguel Garcia
-- Raphael Honorato e Silva
-- Thiago de Holanda Silva
-- Tiago Tinoco Martins dos Santos
-- Nikolas Isler da Costa
-
----
 Siga as [PyLadies Floripa](https://www.instagram.com/pyladiesfloripa/) e participe da comunidade! 🚀
 
