@@ -31,7 +31,7 @@ Abaixo uma imagem de como ficou o protótipo:
 ## Como contribuir
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/Lydson/pyladies-site.git
+   git clone https://github.com/CristianeSanMiguel/site-pyladies-floripa.git
    ```
 2. Instale as dependências:
    ```sh
